@@ -5,7 +5,7 @@
  */
 namespace Iyzico\Iyzipay\Block\Adminhtml\Order\Invoice;
 
-class Totals extends \Magento\Sales\Block\Order\Totals
+class Totals extends \Magento\Sales\Block\Order\Invoice\Totals
 {
 
     /**
